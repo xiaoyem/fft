@@ -39,7 +39,7 @@ The beginnings of the hacker culture as we know it today can be conveniently dat
 MIT acquired the first PDP-1. The Signals and Power Committee of MIT's Tech Model Railroad Club
 adopted the machine as their favorite tech-toy and invented programming tools, slang, and an entire
 surrounding culture that is still recognizably with us today. These early years have been examined
-in the first part of Steven Levy's book Hackers.
+in the first part of Steven Levy's book Hackers [Levy].
 
 MIT's computer culture seems to have been the first to adopt the term `hacker'. The Tech Model
 Railroad Club's hackers became the nucleus of MIT's Artificial Intelligence Laboratory, the world's
@@ -61,7 +61,7 @@ first self-conscious discussions of the hacker ethic--all propagated on the ARPA
 years. In particular, the first version of the Jargon File developed as a cross-net collaboration
 during 1973-1975. This slang dictionary became one of the culture's defining documents. It was
 eventually published as "The Hacker's Dictionary" in 1983; that first version is out of print, but a
-revised and expanded version is New Hacker's Dictionary.
+revised and expanded version is New Hacker's Dictionary [Raymond].
 
 Hackerdom flowered at the universities connected to the net, especially (though not exclusively) in
 their computer science departments. MIT's AI and LCS labs made it first among equals from the late
@@ -418,4 +418,15 @@ defeat the misnamed ``Communications Decency Act'' and prevent censorship of the
 With the CDA victory, we pass out of history into current events. We also pass into a period in
 which your historian (rather to his own surprise) became an actor rather than just an observer. This
 narrative will continue in Revenge of the Hackers.
+
+
+Bibliography
+
+[Levy] Levy, Steven; Hackers, Anchor/Doubleday 1984, ISBN 0-385-19195-2.
+
+[Raymond] Raymond, Eric S.; The New Hacker's Dictionary, MIT Press, 3rd edition 1996. ISBN ISBN
+0-262-68092-0.
+
+David E. Lundstrom gave us an anecdotal history of the ``Real Programmer'' era in A Few Good Men
+From UNIVAC, 1987, ISBN-0-262-62075-8.
 
