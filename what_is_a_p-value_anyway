@@ -108,3 +108,46 @@ Andrew Vickers
 10.4 The variation of study results often follows a normal distribution, even if the data from each
      individual study are non-normal.
 
+11.1 If we take a sample of individuals, 95% will have values within 2 standard deviations of the
+     mean. This is called the reference range.
+
+11.2 If we repeated a study a large number of times, 95% of the estimates--the mean BMI of students,
+     or the difference in proportions between two types of surgery--would be within 2 standard
+     errors of the true mean; this is called the confidence interval.
+
+11.3 95% of 95% confidence intervals will include the true value of an estimate. The true value of
+     an estimate is called a parameter.
+
+11.4 Reference ranges are only used for some very specific purposes, such as identifying patients
+     with blood values suggestive of disease. As such, reference ranges are not usually reported in
+     scientific papers.
+
+11.5 Confidence intervals are a useful way of thinking what the results of a study might plausibly
+     be, were you to repeat it.
+
+12.1 You may hear the results of opinion polls described in terms of a margin of error. This is a
+     concept similar to the confidence interval.
+
+12.2 The idea of a margin of error makes it sound as though the true result could be absolutely
+     anywhere within the confidence interval. In fact, it is more likely to be nearer the middle of
+     the confidence interval than at either extreme.
+
+12.3 A "statistical tie" means that the confidence interval includes no difference.
+
+12.4 Put (12.2) and (12.3) together and you realize that a "statistical tie" doesn't mean, "I have
+     no idea, might as well flip a coin."
+
+13.1 P-values test hypotheses.
+
+14.1 Inference statistics involves testing a hypotheses, specifically, a null hypothesis.
+
+14.2 A null hypothesis is a statement suggesting that nothing interesting is going on, for example,
+     that there is no difference between the observed data and what was expected, or no difference
+     between two groups.
+
+14.3 The p-value is the probability that the data would be at least as extreme as those observed if
+     the null hypothesis were true.
+
+14.4 If the data would be unlikely if the null hypothesis were true, we conclude that the null
+     hypothesis is not true.
+
