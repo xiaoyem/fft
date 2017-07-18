@@ -1,0 +1,30 @@
+
+David Morin
+
+2.1 The probability of an event is defined to be the fraction of the time the event occurs in a very
+    large number of identical trials.
+
+3.1 A random variable is a variable that can take on certain numerical values with certain
+    probabilities.
+
+4.1 A probability distribution is the collective information about how the total probability (which
+    is always 1) is distributed among the various possible outcomes of the random variable.
+
+4.2 A probability distribution for a continuous random variable is given in terms of a probability
+    density. To obtain an actual probability, the density must be multiplied by an interval of the
+    random variable. More generally, the probability equals the area under the density curve.
+
+5.1 For a large number of trials, n, a binomial distribution reduces to a Gaussian distribution.
+
+5.2 The law of large numbers states that the measured probability over a large number of trials will
+    be essentially equal to the theoretical probability. This law is a consequence of the fact that
+    a Gaussian distribution has the property that the larger the number of trials, the thinner the
+    distribution's bump, relative to the whole span of possible outcomes.
+
+5.3 In the limit of a large expected number of events, a, a Poisson distribution reduces to a
+    Gaussian distribution.
+
+5.4 The central limit theorem says (in its most common form) that if you perform a large number of
+    trials of a random process, the probability distribution for the sum (or average) of the
+    outcomes is approximately a Gaussian distribution.
+
