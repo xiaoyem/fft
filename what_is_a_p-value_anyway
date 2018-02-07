@@ -151,3 +151,46 @@ Andrew Vickers
 14.4 If the data would be unlikely if the null hypothesis were true, we conclude that the null
      hypothesis is not true.
 
+15.1 Testing a hypothesis ("inference" statistics) consists of the following steps:
+     a. Specify a null hypothesis.
+     b. Apply a statistical test to the data to obtain a p-value.
+     c. If the p-value is less than 0.05 ("statistically significant"), reject the null hypothesis.
+     d. If the p-value is 0.05 or more, don't reject the null hypothesis.
+
+15.2 Don't accept the null hypothesis.
+
+16.1 Statistical tests are applied to data to generate p-values to test hypotheses.
+
+16.2 The t test and the Wilcoxon test are two well known statistical tests.
+
+16.3 Both tests are used when two groups (such as boys and girls or treatment and control) are
+     compared with respect to a continuous variable (such as time to complete a cycle race).
+
+16.4 The t test involves calculating an estimate addressing the hypothesis of the study as well as
+     its standard error. The p-value is calculated by comparing the estimate to the standard error.
+
+16.5 To run a Wilcoxon test, the data must first be converted to ranks. The p-value is calculated
+     by comparing differences in ranks to an expected distribution of differences in ranks.
+
+16.6 The t test can be unreliable if the data are very skewed.
+
+17.1 When you are planning a study, you have to work out the sample size you'll need.
+
+17.2 If the main purpose of your study is estimation, then the sample size you'll need depends on
+     how precise you'd like your estimate to be. Precision can be thought of in terms of the width
+     of your confidence interval.
+
+17.3 Precision follows the inverse square law: if you want to halve the width of your confidence
+     interval, you have to quadruple your sample size.
+
+17.4 If the main purpose of your study is hypothesis testing, then the sample size you'll need
+     depends on power. Power is the probability that, if there is truly an effect of a given size,
+     you will reject the null hypothesis.
+
+17.5 Power is typically set at 80% to 90%.
+
+17.6 There are formulas to work out sample size exactly.
+
+17.6 You have to be very careful about the numbers you put into sample size formulas if you want the
+     numbers that come out of them to be sensible.
+
